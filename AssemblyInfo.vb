@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("HospitalPharmacyinventorymanagementSystem")>
+<Assembly: AssemblyTitle("RSpayrollSystem")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("HospitalPharmacyinventorymanagementSystem")>
+<Assembly: AssemblyProduct("RSpayrollSystem")>
 <Assembly: AssemblyCopyright("Copyright ©  2026")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("a63e792c-dcfd-408d-bed8-f705963fbc68")>
+<Assembly: Guid("03113e9f-d7ea-4321-9a6b-a4c2222a9ebf")>
 
 ' Version information for an assembly consists of the following four values:
 '
